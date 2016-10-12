@@ -1,0 +1,130 @@
+body{
+  background-color: #EDF2C5;
+  width: 1260px;
+  margin: auto;
+}
+.range{
+  padding-left: 160px;
+  padding-right: 160px;
+  box-sizing: border-box;
+}
+
+h1{
+  font-family: Arial Black,Arial;
+  color: #889C5B;
+  float: left;
+  width: 270px;
+  height: 43px;
+  margin-top: 50px;
+  margin-bottom: 25px;
+  font-size: 55px;
+}
+.icon{
+  margin-right: 4px;
+  margin-left: 4px;
+  float: right;
+  margin-top: 88px;
+
+}
+.bottom{
+
+  font-family: Arial Black,Arial;
+  font-size: 12px;
+  color: #778A50;
+  border: 1px solid #75874F;
+  border-radius: 3px;
+  background-color: #EDF2C5;
+  margin-right: 4px;
+  margin-left: 4px;
+  padding-left: 9px;
+  padding-right: 9px;
+  padding-top: 1px;
+  padding-bottom: 5px;
+  height: 20px;
+  box-sizing: border-box;
+  float: right;
+  margin-top: 93px;
+}
+.line{
+  height: 20px;
+  width: 0px;
+  color: #778A50;
+  float: right;
+  margin-top: 91px;
+  margin-right: 6px;
+  margin-left: 6px;
+}
+.clear{
+  clear: both;
+}
+.box {
+  background-color: #889C5B;
+  font-family: Arial Black,Arial;
+  color: #EDF2C5;
+  border-radius: 3px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  padding-left: 31px;
+  margin-top: 10px;
+  box-sizing: border-box;
+}
+.box li{
+  font-size: 16px;
+  list-style: none;
+  float: left;
+  padding-left: 31px;
+  padding-right: 29px;
+}
+.aside{
+  width: 444px;
+  height: 44px;
+  margin-top: 32px;
+  margin-bottom: 17px;
+  box-sizing: border-box;
+    float: left;
+    padding-top:12px;
+}
+.square{
+  float: left;
+  margin-right: 12px;
+}
+img{
+	border-radius: 3px;
+}
+.right{
+  float: right;
+}
+.content{
+  width: 444px;
+  height: 140px;
+  float: right;
+  background-color: #F9FBDB;
+}
+p{
+  font-family: Arial;
+  font-size: 12px;
+  color: #898989;
+  margin: 15px;
+}
+hr{
+  color: #898989;
+  width: 413px;
+}
+
+footer p{
+  font-weight:700;
+  font-family: Arial;
+  font-size: 12px;
+  background-color: #889C5B;
+  color:  #EDF2C5;
+  width: 1260px;
+  height: 60px;
+  float: left;
+  padding-left: 463px;
+  padding-right: 463px;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  box-sizing: border-box;
+  margin: 0px;
+  margin-top: 34px;
+}
